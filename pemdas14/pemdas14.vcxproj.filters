@@ -18,5 +18,8 @@
     <ClCompile Include="pemdas14.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ioFileWithPath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
